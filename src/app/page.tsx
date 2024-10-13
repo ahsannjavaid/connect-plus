@@ -6,7 +6,6 @@ import VideoChat from "@/modules/video_chat/Index";
 export default function Home() {
   return (
     <div>
-      <h1>Welcome to ConnectPlus</h1>
       <BasicChat />
       <VideoChat />
       <Map />
